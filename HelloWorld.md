@@ -1,4 +1,4 @@
 ## If at first you don't suceed
 
-*Try
-*Try again
+* Try
+* Try again
